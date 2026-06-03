@@ -1,7 +1,7 @@
 # Hey, I'm Thomas 👋
 ジョンソン・トーマス — Software Engineering @ SJSU
 
-> Full-stack developer building things with React, Node.js & PostgreSQL.  
+> Full-stack developer building things with React, Node.js, PostgreSQL, and more. 
 > Japanese–English bilingual 🇯🇵🇺🇸 · Open to SWE internships (US & Japan)
 
 ---
@@ -28,6 +28,6 @@
 
 ---
 
-📍 San Francisco Bay Area  ·  🎓 SJSU · Class of 2027  ·  🗣 日本語 / English  
+📍 San Francisco Bay Area  ·  🎓 SJSU · Class of 2028  ·  🗣 日本語 / English  
 Currently seeking SWE internships for Summer 2027 — especially in Japan 🇯🇵  
 📬 islandcity57@gmail.com
