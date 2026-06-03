@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠 Stack
+## Current Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -18,7 +18,7 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -30,4 +30,4 @@
 
 📍 San Francisco Bay Area  ·  🎓 SJSU · Class of 2028  ·  🗣 日本語 / English  
 Currently seeking SWE internships for Summer 2027 — especially in Japan 🇯🇵  
-📬 islandcity57@gmail.com
+EMAIL: islandcity57@gmail.com
