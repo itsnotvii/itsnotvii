@@ -1,4 +1,4 @@
-# Hey, I'm Thomas 👋
+# Hi! I'm Thomas 
 ジョンソン・トーマス — Software Engineering @ SJSU
 
 > Full-stack developer building things with React, Node.js, PostgreSQL, and more. 
