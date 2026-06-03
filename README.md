@@ -1,5 +1,5 @@
 # Hi! I'm Thomas 
-ジョンソン・トーマス — Software Engineering @ SJSU
+ジョンソン・トーマス — Software Engineering @ San Jose State University
 
 > Full-stack developer building things with React, Node.js, PostgreSQL, and more. 
 > Japanese–English bilingual 🇯🇵🇺🇸 · Open to SWE internships (US & Japan)
