@@ -28,11 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsnotvii&show_icons=true&theme=default&hide_border=true)
-
----
-
 📍 San Francisco Bay Area  ·  🎓 SJSU · Class of 2027  ·  🗣 日本語 / English  
 Currently seeking SWE internships for Summer 2027 — especially in Japan 🇯🇵  
 📬 islandcity57@gmail.com
