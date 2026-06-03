@@ -30,7 +30,7 @@
 
 ##  GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsnotvii&show_icons=true&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsnotvii&theme=github-compact)
 
 ---
 
