@@ -28,12 +28,6 @@
 
 ---
 
-##  GitHub Stats
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsnotvii&theme=github-compact)
-
----
-
 📍 San Francisco Bay Area  ·  🎓 SJSU · Class of 2028  ·  🗣 日本語 / English  
 Currently seeking SWE internships for Summer 2027 — especially in Japan 🇯🇵  
 EMAIL: islandcity57@gmail.com
