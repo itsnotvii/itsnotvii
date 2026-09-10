@@ -81,13 +81,6 @@ I'm a full-stack developer who likes taking a problem apart until it's simple. M
 
 <br/>
 
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsnotvii&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=888888&text_color=cccccc" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnotvii&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc" />
-</p>
-
 <br/>
 
 <p align="center">
