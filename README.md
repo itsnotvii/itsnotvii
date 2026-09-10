@@ -31,7 +31,7 @@
 <br/>
 
 <p align="center" width="600">
-I'm a full-stack developer who likes taking a problem apart until it's simple. My work sits at the intersection of clean UI and solid backend architecture, with a growing focus on shipping ML models as real, usable products rather than notebooks.
+I'm a full-stack developer who enjoys working with others, breaking down problems, finding alternatives and making things work. My work sits at a harmony of clean UI and solid backend architecture, with a growing focus on shipping ML models and projects.
 </p>
 
 <br/>
