@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,100:2b2b2b&height=160&section=header&text=Thomas%20Johnson&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%B3%E3%83%BB%E3%83%88%E3%83%BC%E3%83%9E%E3%82%B9&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,100:2b2b2b&height=140&section=header" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Software+Engineering+%40+San+Jos%C3%A9+State+University;Full-stack+developer+%7C+React+%C2%B7+Node.js+%C2%B7+PostgreSQL;Open+to+SWE+internships+%E2%80%94+US+%26+Japan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Thomas+Johnson" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=888888&center=true&vCenter=true&width=650&lines=Software+Engineering+%40+San+Jos%C3%A9+State+University;Full-stack+developer+%7C+React+%C2%B7+Node.js+%C2%B7+PostgreSQL;Open+to+SWE+internships+%E2%80%94+US+%26+Japan" />
 </p>
 
 <p align="center">
@@ -87,7 +91,7 @@ I'm a full-stack developer who likes taking a problem apart until it's simple. M
 <br/>
 
 <p align="center">
-  <sub>Currently seeking <b>SWE internships for Summer 2027</b> — especially in Japan</sub>
+  <sub>Currently seeking <b>SWE internships for Summer 2027</b> — open to opportunities in the US or Japan</sub>
 </p>
 
 <p align="center">
