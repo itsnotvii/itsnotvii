@@ -5,10 +5,10 @@
   <a href="mailto:islandcity57@gmail.com">
     <img src="https://img.shields.io/badge/Email-171717?style=flat-square&logo=gmail&logoColor=EA4335" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://www.linkedin.com/in/thomas-johnson-821603327/">
     <img src="https://img.shields.io/badge/LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="https://your-portfolio-site.com">
+  <a href="https://portfolio-rouge-sigma-75.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-171717?style=flat-square&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -52,5 +52,5 @@ I'm a full-stack developer who likes taking a problem apart until it's simple. M
 <br/>
 
 <p align="center">
-  <sub>Currently seeking <b>SWE internships for Summer 2027</b> — especially in Japan 🇯🇵</sub>
+  <sub>Currently seeking <b>SWE internships for Summer 2027</b></sub>
 </p>
